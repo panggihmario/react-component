@@ -16,6 +16,9 @@ const buttonVariants = cva('inline-flex px-4 rounded-md items-center justify-cen
       sm : 'h-8',
       md : 'h-9',
       lg : 'h-11'
+    },
+    compoundVariants : {
+      variant : 'primary'
     }
 
   }

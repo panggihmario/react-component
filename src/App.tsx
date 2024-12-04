@@ -11,6 +11,7 @@ function App() {
         <Button size={'md'}  variant={'primary'} >primary</Button>
         <Button size={'md'}  variant={'default'} >default</Button>
         <Button size={'md'}  variant={'outlined'} >outline</Button>
+        <Button size={'sm'} variant={'primary'} >small</Button>
       </div>
     </div>
     </>
